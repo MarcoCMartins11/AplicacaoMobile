@@ -1,2 +1,2 @@
-# AplicacaoMobile
+# AplicacaoMobile CMO
 Código fonte
